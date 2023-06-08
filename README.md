@@ -1,4 +1,15 @@
-### Hi there 👋
+<!-- ![](heading.jpg) -->
+
+<div style="display: flex; justify-content: center;margin-bottom: 20px;">
+  <img src="heading.jpg" width="700">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Second Image" width="275">
+</div>
+
+### 👩 Welcome to my Github Page
+
+🔄 Career changer from digital marketing to software development.  
+🌱 My learning journey is documented here ...  
+💻 Browse my projects here..
 
 <!--
 **DeepsDali/DeepsDali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
