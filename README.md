@@ -1,7 +1,7 @@
 <!-- ![](./heading.JPG) -->
 <div style="display: flex; justify-content: center;margin-bottom: 20px;">
-  <img src="./heading.JPG" width="600">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Second Image" width="300">
+  <img src="./heading.JPG" width="550">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Second Image" width="250">
 </div>
 
 ### 👩 Welcome to my Github Page
