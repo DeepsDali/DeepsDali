@@ -7,8 +7,7 @@
 ### 👩 Welcome to my Github Page
 
 <!-- --- -->
-
-I am a career returner from digital marketing to software development. My experience in working collaboratively with marketing, design and product development teams inspires me to create innovative web applications while keeping user-exrperience at the heart of developing any project.
+Software Developer with experience in brand management and digital marketing. My experience in working collaboratively with marketing, design and product development teams inspires me to create innovative web applications while keeping user-exrperience at the heart of developing any project. 
 
 ### 🌱 My Portfolio and Learning Journey  
 
