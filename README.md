@@ -4,13 +4,15 @@ Data and digital professional with exposure to full-stack web development. Proje
 
 ### Portfolio and Learning Journey  
 
-[![Python Project](https://img.shields.io/badge/-Python%20Project-blue)](https://deepsdali.github.io/Deepa-Portfolio/) 
+[![Python Project](https://img.shields.io/badge/-Python%20Project-blue)](https://github.com/DeepsDali/Patient_Data_Cleaner) 
 
 [![Tech For Better Project](https://img.shields.io/badge/-Tech%20for%20better%20Project-blue)](https://github.com/fac28/connote)
 
-[![FAC28](https://img.shields.io/badge/-FAC28-blue)](https://github.com/fac28)
+[![In House Project](https://img.shields.io/badge/-In%20House%20Project-blue)](https://github.com/fac28/in-house-project)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio%20Website-blue)](https://deepsdali.github.io/Deepa-Portfolio/)
+[![Foundations](https://img.shields.io/badge/-Foundations-blue)](https://deepsdali.github.io/Deepa-Portfolio/)
+
+[![FAC28](https://img.shields.io/badge/-FAC28-blue)](https://github.com/fac28)
 
 
 <!-- --- -->
